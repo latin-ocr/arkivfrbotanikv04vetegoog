@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv04vetegoog_0526.png"; bbox 0 0 3113 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 415 4680 937 4736">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 415 4680 937 4736">
+     <span class='ocr_line' id='line_1_1' title="bbox 415 4680 937 4736; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 415 4680 491 4734; x_wconf 85' lang='lat'><strong>13.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 534 4681 599 4735; x_wconf 91' lang='grc' dir='ltr'><strong>Η.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 642 4681 937 4736; x_wconf 81' lang='lat' dir='ltr'>Collinderi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2473 356 2695 412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2473 356 2695 412">
+     <span class='ocr_line' id='line_1_2' title="bbox 2473 356 2695 412; baseline 0.005 -1"><span class='ocrx_word' id='word_1_4' title='bbox 2473 356 2606 412; x_wconf 78' lang='lat' dir='ltr'><strong>Tan.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2646 358 2695 412; x_wconf 86' lang='lat'><strong>4.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1487 2593 2724 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1487 2593 2724 3063">
+     <span class='ocr_line' id='line_1_3' title="bbox 1487 2593 2724 3063; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1487 2593 2724 3063; x_wconf 40' lang='lat' dir='ltr'><strong>ww</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1673 4592 2682 4752">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1673 4592 2682 4752">
+     <span class='ocr_line' id='line_1_4' title="bbox 1852 4592 2682 4644; baseline -0.001 -11"><span class='ocrx_word' id='word_1_7' title='bbox 1852 4593 1977 4633; x_wconf 72' lang='lat' dir='ltr'><strong>Foto.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2008 4605 2048 4634; x_wconf 94' lang='grc' dir='ltr'><strong>ο.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2080 4597 2128 4634; x_wconf 80' lang='lat' dir='ltr'><strong>tr.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2156 4593 2196 4637; x_wconf 80' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2226 4592 2497 4644; x_wconf 81' lang='lat' dir='ltr'><strong>cederquist</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2527 4593 2682 4633; x_wconf 75' lang='lat' dir='ltr'>Suum.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1673 4683 2346 4752; baseline -0.001 -15"><span class='ocrx_word' id='word_1_13' title='bbox 1673 4685 1749 4737; x_wconf 74' lang='lat'><strong>14.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1791 4683 1856 4737; x_wconf 91' lang='grc' dir='ltr'><strong>Η.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1897 4684 2346 4752; x_wconf 83' lang='lat' dir='ltr'>pseudoscioidcs</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

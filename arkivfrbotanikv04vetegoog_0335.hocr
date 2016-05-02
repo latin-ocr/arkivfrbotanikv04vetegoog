@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv04vetegoog_0335.png"; bbox 0 0 3113 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 242 125 1293 182">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 242 125 1293 182">
+     <span class='ocr_line' id='line_1_1' title="bbox 242 125 1293 182; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 242 128 408 182; x_wconf 80' lang='lat' dir='ltr'>Arkiv</span> <span class='ocrx_word' id='word_1_2' title='bbox 446 126 526 181; x_wconf 68' lang='lat' dir='ltr'>for</span> <span class='ocrx_word' id='word_1_3' title='bbox 562 126 808 181; x_wconf 86' lang='lat' dir='ltr'>Botanik.</span> <span class='ocrx_word' id='word_1_4' title='bbox 883 125 942 180; x_wconf 91' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_5' title='bbox 980 125 1030 180; x_wconf 89' lang='grc'>6.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1105 125 1207 180; x_wconf 74' lang='grc' dir='ltr'>Νεο</span> <span class='ocrx_word' id='word_1_7' title='bbox 1244 126 1293 180; x_wconf 90' lang='grc'>9.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1410 4785 3106 4860">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1410 4785 3106 4860">
+     <span class='ocr_line' id='line_1_2' title="bbox 1410 4785 3106 4860; baseline -0.001 -17"><span class='ocrx_word' id='word_1_8' title='bbox 1410 4791 1453 4843; x_wconf 91' lang='grc'>1.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1502 4788 1753 4858; x_wconf 80' lang='lat' dir='ltr'>Scoparia</span> <span class='ocrx_word' id='word_1_10' title='bbox 1794 4788 2130 4844; x_wconf 73' lang='lat' dir='ltr'>millefoliata</span> <span class='ocrx_word' id='word_1_11' title='bbox 2168 4789 2388 4844; x_wconf 80' lang='lat' dir='ltr'>Fritsch.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2446 4788 2531 4860; x_wconf 49' lang='grc' dir='ltr'>Ἃ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 2606 4788 2655 4843; x_wconf 86' lang='grc'>2.</span> <span class='ocrx_word' id='word_1_14' title='bbox 2705 4787 2788 4843; x_wconf 86' lang='lat' dir='ltr'>Sc.</span> <span class='ocrx_word' id='word_1_15' title='bbox 2829 4804 3011 4843; x_wconf 85' lang='lat' dir='ltr'>annua</span> <span class='ocrx_word' id='word_1_16' title='bbox 3053 4785 3106 4841; x_wconf 84' lang='lat' dir='ltr'>C&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

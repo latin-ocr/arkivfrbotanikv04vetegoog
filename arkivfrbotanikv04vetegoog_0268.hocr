@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv04vetegoog_0268.png"; bbox 0 0 3113 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 152 206 3025 288">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 152 206 3025 288">
+     <span class='ocr_line' id='line_1_1' title="bbox 152 206 3025 288; baseline -0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 152 228 372 288; x_wconf 75' lang='lat' dir='ltr'>Am&lt;1v</span> <span class='ocrx_word' id='word_1_2' title='bbox 411 219 550 288; x_wconf 63' lang='lat'>1:01³</span> <span class='ocrx_word' id='word_1_3' title='bbox 590 227 924 285; x_wconf 80' lang='grc' dir='ltr'>ΒοτΑΝικ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1000 228 1198 282; x_wconf 80' lang='lat' dir='ltr'>BAND</span> <span class='ocrx_word' id='word_1_5' title='bbox 1239 229 1289 282; x_wconf 89' lang='lat'>6.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1364 229 1468 282; x_wconf 88' lang='lat' dir='ltr'>N:o</span> <span class='ocrx_word' id='word_1_7' title='bbox 1506 229 1556 283; x_wconf 89' lang='lat'>8.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2793 227 2903 283; x_wconf 78' lang='lat' dir='ltr'>Tar.</span> <span class='ocrx_word' id='word_1_9' title='bbox 2944 206 3025 282; x_wconf 79' lang='grc'>5.’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2586 4700 2649 4708">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2586 4700 2649 4708">
+     <span class='ocr_line' id='line_1_2' title="bbox 2586 4700 2649 4708; baseline -0.016 0"><span class='ocrx_word' id='word_1_10' title='bbox 2586 4700 2649 4708; x_wconf 42' lang='grc' dir='ltr'>ν’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 206 4749 2938 4798">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 206 4749 2938 4798">
+     <span class='ocr_line' id='line_1_3' title="bbox 206 4749 2938 4798; baseline -0.002 -7"><span class='ocrx_word' id='word_1_11' title='bbox 206 4753 252 4792; x_wconf 89' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_12' title='bbox 285 4751 424 4791; x_wconf 63' lang='lat' dir='ltr'>ousta</span> <span class='ocrx_word' id='word_1_13' title='bbox 455 4752 532 4790; x_wconf 76' lang='grc' dir='ltr'><strong>άεΙ.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 2347 4749 2382 4793; x_wconf 81' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_15' title='bbox 2415 4749 2655 4798; x_wconf 69' lang='lat' dir='ltr'>cedetquist</span> <span class='ocrx_word' id='word_1_16' title='bbox 2684 4751 2788 4790; x_wconf 64' lang='grc' dir='ltr'>ίοίο.</span> <span class='ocrx_word' id='word_1_17' title='bbox 2820 4761 2862 4789; x_wconf 89' lang='grc' dir='ltr'>ο.</span> <span class='ocrx_word' id='word_1_18' title='bbox 2894 4749 2938 4786; x_wconf 76' lang='lat' dir='ltr'>tr.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

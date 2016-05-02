@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv04vetegoog_0758.png"; bbox 0 0 3113 5025; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2433 348 2655 405">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2433 348 2655 405">
+     <span class='ocr_line' id='line_1_1' title="bbox 2433 348 2655 405; baseline 0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 2433 348 2567 405; x_wconf 82' lang='lat' dir='ltr'>Tass.</span> <span class='ocrx_word' id='word_1_2' title='bbox 2605 349 2655 404; x_wconf 90' lang='lat'>3.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 640 2376 4603">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 640 2376 4603">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 640 2376 4603; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 640 2376 4603; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 4697 2664 4866">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 4697 2664 4866">
+     <span class='ocr_line' id='line_1_3' title="bbox 1825 4697 2664 4756; baseline -0.002 -12"><span class='ocrx_word' id='word_1_4' title='bbox 1825 4701 1952 4744; x_wconf 79' lang='lat' dir='ltr'><strong>Foto.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1983 4713 2024 4746; x_wconf 86' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_6' title='bbox 2055 4704 2106 4744; x_wconf 78' lang='lat' dir='ltr'>tr.</span> <span class='ocrx_word' id='word_1_7' title='bbox 2135 4697 2172 4744; x_wconf 87' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_8' title='bbox 2202 4701 2474 4756; x_wconf 77' lang='lat' dir='ltr'>Cederquist</span> <span class='ocrx_word' id='word_1_9' title='bbox 2504 4701 2664 4743; x_wconf 80' lang='lat' dir='ltr'><strong>Sthlm.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 0 4789 2068 4866; baseline -0 -19"><span class='ocrx_word' id='word_1_10' title='bbox 0 4791 321 4866; x_wconf 84' lang='lat' dir='ltr'>hophyllum.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1386 4791 1467 4846; x_wconf 90' lang='grc'>10.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1508 4791 1574 4846; x_wconf 87' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1617 4789 2068 4862; x_wconf 78' lang='lat' dir='ltr'>confragifolium.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
